@@ -1,0 +1,91 @@
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right-menu {
+    display: flex;
+    gap: 50px;
+}
+
+.right-menu p {
+    text-shadow: 0px 7px 4px #371AAB99;
+
+}
+
+
+.content {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 8px 24px 10px #2FC63C;
+
+
+}
+
+.content2 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 7px 29px oldlace
+}
+
+
+.content3 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 1.95px 1.95px 2.6px burlywood
+}
+
+
+.content4 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 5px 15px #00000059;
+
+}
+
+
+
+.content5 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 1px 4px #000000AB;
+
+}
+
+.content6 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 3px 8px #FF0000;
+
+}
+
+
+.content7 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 8px 24px #007FFDEB;
+
+}
+
+
+.content8 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 0px 7px 36px #64646FA8;
+
+}
+
+.content9 {
+    width: 133px;
+    height: 133px;
+    box-shadow: 1.95px 1.95px 2.6px #00000026;
+
+}
+
+
+
+
+.parent {
+    display: flex;
+}
